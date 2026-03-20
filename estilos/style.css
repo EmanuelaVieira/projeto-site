@@ -4,10 +4,10 @@
 }
 
 body {
-    background-color: burlywood;
+    background-color: rgb(217, 151, 64);
 }
 
-main{
+main {
     background-color: white;
     width: 500px;
     margin: auto;
